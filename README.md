@@ -22,8 +22,6 @@ This Project is created for understanding github, CI CD Pipeline enabling
       3. Master branch check in, build the project, run the test cases successfully, run the integration testing successfully
       4. Master branch check in, build the project, run the test cases successfully, run the integration testing successfully, deploy the package
       
-      
-
 ### ========= 15-05-2019 CI Process =================
       [ As of now this process is considered as CI ]  And Deploy the publish items to iis
       
